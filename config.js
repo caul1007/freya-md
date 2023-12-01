@@ -51,20 +51,20 @@ global.htka = '』––––––' // Hiasan Title  (KANAN)
 global.emojis = pickRandom(["👑", "🎗", "️🗿", "🕹", "️💡", "🪄", "🎈", "🎊", "🔖", "📍", "❤", "‍🔥", "💤", "💭", "🕚", "💬", "🚩", "🎐", "🍃", "🌿", "🥀", "✨", "⚡", "☂️"])
 
 //--------[WATERMARK]
-global.wm = 'ᴋɪᴢʜ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ' //Main WM
+global.wm = 'CUL' //Main WM
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘バージニティハンター˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ᴋɪᴢʜ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ'
-global.md = 'ᴋɪᴢʜ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ‌'
+global.wm3 = 'CUL'
+global.md = 'CUL'
 //-----[OWNER]
-global.nomorown = '6281392861978'
+global.nomorown = '6283841403395'
 global.owner = [
-['6281392861978'], // global owner 0
-['6281392861978'], // global owner 1
-['6281392861978'], // global owner 2
-['6281392861978', 'KIZH🦄', true] // global owner 3
+['6283841403395'], // global owner 0
+[''], // global owner 1
+[''], // global owner 2
+['6283841403395', 'REN', true] // global owner 3
 ]
 global.mods = [] // Want some help?
-global.prems = ['6281392861978','6281392861978'] // Premium user has unlimited limit
+global.prems = ['6283841403395','6281392861978'] // Premium user has unlimited limit
 
 // =================={[(API KEYS)]}==================
 global.mupar = 'Kiɪᴢʜ |ɴᴢᴢ'
@@ -101,16 +101,16 @@ global.xyro = '_'  // ISI APIKEY OPENAI LU 🥵
 global.xzn = '_'   // ISI APIKEY OPENAI LU 🥵
 global.wait = 'SBR KINTIL'
 ///==================/thumbnail 
-global.thumb = 'https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg'
-global.thumbbc = 'https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg' //For broadcast
+global.thumb = 'https://telegra.ph/file/a3dd7a4dce2f2bbea4979.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/f7ec27efdb93c257d5f3d.jpg'
+global.thumbbc = 'https://telegra.ph/file/8f48fe3b490d560aa40c7.jpg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumblvlup = 'https://telegra.ph/file/a3e66e0fa840b08236c75.jpg'
 global.footer = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ ฅ˘ᴋɪᴢʜ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/_xwby_' //Link Instagrammu
+global.sig = 'https://instagram.com/arsaandii' //Link Instagrammu
 global.sgh = 'https://linktr.ee/KizhDigital' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/KAIVzeE6Aed3beY4snxIdn'
+global.sgc = 'https://chat.whatsapp.com/KCbeGpPT7oWLF7whINJcIh'
 global.sdc = 'https://linktr.ee/KizhDigital' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 //global.logo = ImgMountain()
@@ -150,7 +150,7 @@ global.ppbot = [ 'https://telegra.ph/file/76dac6b1c51affd5b249e.jpg','https://cd
 //===[THUMBNAIL MENU]===
 
     global.thumbnailUrl= [
-'https://telegra.ph/file/0f49959e6bac62ddc1f95.jpg','https://telegra.ph/file/2cbb0b176e9c6836a9005.jpg','https://telegra.ph/file/8fa8b92e322eb2c312e67.jpg'
+'https://telegra.ph/file/a3dd7a4dce2f2bbea4979.jpg','https://telegra.ph/file/f7ec27efdb93c257d5f3d.jpg','https://telegra.ph/file/8f48fe3b490d560aa40c7.jpg'
 ]
 global.Pallmenu = [
 'https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg','https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg','https://telegra.ph/file/fcf6df69cd19dea9a14ad.jpg'
